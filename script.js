@@ -43,7 +43,7 @@ function hideMessage() {
         errorMessage.style.display = "none";
         successMessage.style.display = "none";
         clearMessage.style.display = "none";
-    }, 3000);
+    }, 2000);
 }
 
 
